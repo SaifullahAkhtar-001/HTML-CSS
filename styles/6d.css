@@ -1,0 +1,32 @@
+        .title{
+            font-family: 'Montserrat', sans-serif;
+            text-align: center;
+            font-size: 50px;
+            font-weight: 600;
+            margin-bottom: 0px;
+        }
+        .discription{
+            font-family: 'Montserrat', sans-serif;
+            text-align: center;
+            font-weight: 400;
+            font-size: 35px;
+            margin-top: 18px;
+        }
+        .underline{
+            font-family: 'Montserrat', sans-serif;
+            text-decoration: underline;
+            text-decoration-thickness: 5%;
+        }
+        body{
+            background-image: url(https://images4.alphacoders.com/121/1210649.jpg);
+            background-size: cover;
+        }
+        .x{
+            transition: font-size 1s,color 1s;
+            cursor: pointer;
+        }
+        .x:hover{
+            margin: 0px;
+            font-size: 70px;
+            color: rgb(199, 61, 27);
+        }
