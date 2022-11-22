@@ -18,6 +18,7 @@
             text-decoration-thickness: 5%;
         }
         body{
+            background-repeat: no-repeat;
             background-image: url(https://images4.alphacoders.com/121/1210649.jpg);
             background-size: cover;
         }
