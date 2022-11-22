@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    p{
+        width: 300px;
+    }
+    h1{
+        font-family: Verdana;
+        font-size: large;
+        margin-bottom: 0px;
+        width: 300px;
+    }
+    .subheading{
+        font-family: Verdana;
+        color: rgb(145, 145, 145);
+        margin-top: 2px;
+    }
+    .discription{
+        font-family: Verdana;
+    }
+    button{
+        background-color: green;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        padding-left: 13px;
+        padding-right: 13px;
+        cursor: pointer;
+        transition: background-color 0.5s,color 0.5s;
+    }
+    button:hover{
+        background-color: bisque;
+        color: green;
+    }
+    </style>
+    </head>
+    </html>
