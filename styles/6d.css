@@ -7,6 +7,7 @@
         }
         .discription{
             font-family: 'Montserrat', sans-serif;
+            color: rgb(0, 0, 0);
             text-align: center;
             font-weight: 400;
             font-size: 35px0px;
@@ -39,3 +40,11 @@
             margin-top: 18px;
             transition: margin 1s;
         }
+        @media screen and (max-width: 400px) {
+            body {
+              background-image: url(https://images.hdqwalls.com/download/model-x-vl-1080x1920.jpg);
+              background-repeat: none;
+              background-size: cover;
+            }
+
+          }
