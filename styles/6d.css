@@ -19,9 +19,12 @@
             text-decoration-thickness: 5%;
         }
         body{
+            margin: 0px;
+            padding: 0px;
             background-repeat: no-repeat;
             background-image: url(https://images4.alphacoders.com/121/1210649.jpg);
             background-size: cover;
+            height: 100vh;
         }
         .x{
             transition: font-size 1s,color 1s;
@@ -40,11 +43,15 @@
             margin-top: 18px;
             transition: margin 1s;
         }
-        @media screen and (max-width: 400px) {
+        @media screen and (max-width: 768px) {
             body {
+                margin: 0px;
+                padding: 0px;
+                height: 100vh;
               background-image: url(https://images.hdqwalls.com/download/model-x-vl-1080x1920.jpg);
-              background-repeat: none;
+              background-repeat: no-repeat;
               background-size: cover;
+
             }
 
           }
