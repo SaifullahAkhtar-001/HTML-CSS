@@ -21,6 +21,7 @@
         body{
             margin: 0px;
             padding: 0px;
+            background-position: center;
             background-repeat: no-repeat;
             background-image: url(https://images4.alphacoders.com/121/1210649.jpg);
             background-size: cover;
