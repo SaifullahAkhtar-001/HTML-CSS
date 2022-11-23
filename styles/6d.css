@@ -9,8 +9,8 @@
             font-family: 'Montserrat', sans-serif;
             text-align: center;
             font-weight: 400;
-            font-size: 35px;
-            margin-top: 18px;
+            font-size: 35px0px;
+            margin-top: 18px0px;
         }
         .underline{
             font-family: 'Montserrat', sans-serif;
@@ -30,4 +30,12 @@
             margin: 0px;
             font-size: 70px;
             color: rgb(199, 61, 27);
+        }
+        .link{
+            color: black;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 400;
+            font-size: 35px;
+            margin-top: 18px;
+            transition: margin 1s;
         }
