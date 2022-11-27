@@ -7,7 +7,7 @@
         }
         .discription{
             font-family: 'Montserrat', sans-serif;
-            color: rgb(0, 0, 0);
+            color: rgb(211, 203, 203);
             text-align: center;
             font-weight: 400;
             font-size: 35px0px;
@@ -17,6 +17,7 @@
             font-family: 'Montserrat', sans-serif;
             text-decoration: underline;
             text-decoration-thickness: 5%;
+            cursor: pointer;
         }
         body{
             margin: 0px;

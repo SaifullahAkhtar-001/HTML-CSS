@@ -1,0 +1,23 @@
+.join{
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+    padding-left: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 100px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.box{
+    width: 300px;
+    padding: 5px;
+    border-radius: 4px;
+    border-width: 1px;
+}
+p{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
