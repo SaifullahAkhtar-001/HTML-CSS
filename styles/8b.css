@@ -1,0 +1,9 @@
+.button1,
+.button2,
+.width{
+    display: inline-block;
+    vertical-align: middle;
+}
+.width{
+    width: 250px;
+}

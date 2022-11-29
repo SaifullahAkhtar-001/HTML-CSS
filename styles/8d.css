@@ -1,0 +1,51 @@
+.firstname{
+    display: inline-block;
+    padding: 10px;
+    border-radius: 8px;
+    border-width: 1px;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-color: lightgray;
+}
+.lastname{
+    border-style: solid;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 8px;
+    border-width: 1px;
+    margin-bottom: 10px;
+    border-color: lightgray;
+}
+.githubsignup{
+    background-color: #1d9bf0;
+    border: none;
+    border-radius: 8px;
+    color: rgb(255, 255, 255);
+    width: 380px;
+    padding-left: 100px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 100px;
+    cursor: pointer;
+    transition: box-shadow 0.25s;
+}
+.githubsignup:hover{
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+}
+.githubsignup:active{
+    margin-top: 5px;
+    margin-left: 5px;
+    box-shadow: none;
+}
+.email{
+    border-color: lightgray;
+    width: 365px;
+    display: block;
+    padding: 10px;
+    border-radius: 8px;
+    border-width: 1px;
+    margin-bottom: 10px;
+}
+::placeholder{
+    font-family: Arial, Helvetica, sans-serif;
+}

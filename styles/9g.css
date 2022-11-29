@@ -1,0 +1,45 @@
+.catpicture{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+    /* margin-right: 10px; */
+}
+.catpicture3{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: top;
+}
+.title{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    margin: 0px;
+    padding-left: 10px;
+    margin-bottom: 2px;
+    margin-top: 8px;
+}
+.mutual{
+    margin: 0px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-left: 10px;
+    margin-bottom: 8px;
+}
+.add-friend-button {
+    background-color: rgb(24, 119, 242);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-left: 8px;
+    margin-bottom: 10px;
+}
+div{
+    display: inline-block;
+    padding: 8px;
+    box-shadow: 0px 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
