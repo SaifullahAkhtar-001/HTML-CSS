@@ -4,13 +4,13 @@
     column-gap: 20px;
 }
 .catpicture{
-    width: 200px;
+    width: 100%;
     height: 200px;
     object-fit: cover;
     object-position: center;
 }
 .catpicture3{
-    width: 200px;
+    width: 100%;
     height: 200px;
     object-fit: cover;
     object-position: top;
