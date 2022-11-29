@@ -3,7 +3,6 @@
     height: 200px;
     object-fit: cover;
     object-position: center;
-    /* margin-right: 10px; */
 }
 .catpicture3{
     width: 200px;
@@ -39,6 +38,7 @@
     margin-bottom: 10px;
 }
 div{
+    margin-right: 10px;
     display: inline-block;
     padding: 8px;
     box-shadow: 0px 2px 2px 2px rgba(0, 0, 0, 0.2);
