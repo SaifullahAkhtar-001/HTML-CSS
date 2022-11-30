@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "repository",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "semeste2"
+	}
+}
